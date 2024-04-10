@@ -1,0 +1,16 @@
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.deps.json
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.json
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/bin/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.AssemblyInfo.cs
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.sourcelink.json
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.dll
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/refint/KnowledgeCheck1_Calculator.dll
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.pdb
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/KnowledgeCheck1_Calculator.genruntimeconfig.cache
+/Users/chentang/csharp_learning/Software1-Knowledge-Check-1/KnowledgeCheck1_Calculator/obj/Debug/net5.0/ref/KnowledgeCheck1_Calculator.dll
